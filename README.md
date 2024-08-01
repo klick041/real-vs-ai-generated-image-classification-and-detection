@@ -1,4 +1,4 @@
-# Fake AI-generated Image Detection
+# REAL VS AI GENERATED IMAGE CLASSIFICATION AND DETECTION
 
 ## Overview
 
