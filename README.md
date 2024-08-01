@@ -26,5 +26,5 @@ I have used a Convolutional Neural Network (CNN) for image classification. The m
 To make it easier for users to classify images, we created a simple and intuitive web interface using Streamlit. You can run the app locally to test the model and classify your own images. To run the Streamlit app, use the following command:
 
 ## Author   
-**Name :** Yeturi Venkatesh   
-**Contact :** venkateshyeturi904@gmail.com
+**Name :** MERUGU KLICK  
+**Contact :** klick431@gmail.com
